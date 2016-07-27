@@ -3,7 +3,7 @@
 int main(){
 
 
-	printf("Carlos is gay"):
+	printf("Henry is gay"):
 	printf("Hello is badass.");
 	printf("Carlos is a badass.")
 
