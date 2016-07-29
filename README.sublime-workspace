@@ -1,0 +1,289 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"max",
+				"max_elem"
+			],
+			[
+				"get",
+				"get_pair_up"
+			],
+			[
+				"dist",
+				"distinct_h"
+			],
+			[
+				"O",
+				"O_TRUNC"
+			],
+			[
+				"ele",
+				"element"
+			],
+			[
+				"stc",
+				"strcpy"
+			],
+			[
+				"ex",
+				"execute"
+			],
+			[
+				"str",
+				"strcmp"
+			],
+			[
+				"r",
+				"remove_entry"
+			],
+			[
+				"In",
+				"Invoker"
+			],
+			[
+				"table",
+				"table_ptr"
+			],
+			[
+				"reo",
+				"remove_entry"
+			],
+			[
+				"Fai",
+				"FAILURE"
+			],
+			[
+				"remove",
+				"remove_entry"
+			],
+			[
+				"tabl",
+				"table_ptr"
+			],
+			[
+				"is",
+				"is_empty"
+			],
+			[
+				"p",
+				"printf	printf …"
+			],
+			[
+				"t",
+				"table_ptr"
+			],
+			[
+				"tab",
+				"table_ptr"
+			],
+			[
+				"key",
+				"key_count"
+			],
+			[
+				"get_",
+				"get_key_count"
+			],
+			[
+				"table_",
+				"table_ptr"
+			],
+			[
+				"m",
+				"MAX_LEN"
+			],
+			[
+				"N",
+				"NUM_BUCKETS"
+			],
+			[
+				"hash",
+				"hash_code"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Courses/Summer 2016/data.ml",
+		"/C/Courses/Summer 2016/basics.ml",
+		"/C/Courses/Summer 2016/testpTree.ml",
+		"/C/Courses/Spring 2016/CS216/project7/executor.c",
+		"/C/Courses/Spring 2016/CS216/project6/bag.c",
+		"/C/Courses/Summer 2016 Internship/Cattlab HashMap write-up.txt",
+		"/C/Courses/Spring 2016/CS216/exercise5/shell_jr",
+		"/C/Courses/Spring 2016/CS216/exercise5/makefile",
+		"/C/Courses/Spring 2016/CS216/project5/reverse_prefix_sum.c",
+		"/C/Courses/Spring 2016/CS216/project5/fibonacci.c",
+		"/C/Courses/Spring 2016/CS216/project5/palindrome.ys",
+		"/C/Courses/Spring 2016/CS216/Assembly/array_sum.ys",
+		"/C/Courses/Spring 2016/CS216/project5/palindrome.c",
+		"/C/Courses/Spring 2016/CS216/Assembly/if2.ys",
+		"/C/Courses/Spring 2016/CS216/Project4/htable.c",
+		"/C/htable.c",
+		"/C/hashtestervito.c",
+		"/C/hashtester.c",
+		"/C/htable1.c",
+		"/C/Users/corne/OneDrive/Documents/hashtester.c",
+		"/C/Users/corne/OneDrive/Documents/hashtestervito.c",
+		"/C/Courses/Spring 2016/CS216/p4 vito/htable.c",
+		"/C/Courses/Spring 2016/CS216/student_tests for project4 from grace server.c",
+		"/C/Courses/Spring 2016/CS216/hashtester.c",
+		"/C/Courses/Spring 2016/CS216/hashtable.c"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "README.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 300.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
